@@ -1,0 +1,4425 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: climbUp
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.0000007857947, y: 0.5083186, z: 0.8611691, w: 0.000000314342}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.00000078237565, y: -0.46771035, z: -0.8838818, w: 0.00000051767904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Tail
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.23527296, y: -0.0000005531157, z: -0.0000002316182, w: 0.9719293}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.90734386, y: -0.03698952, z: 0.007975772, w: 0.4186829}
+        inSlope: {x: 0.1176542, y: 0.1536738, z: -0.16613595, w: 0.26110366}
+        outSlope: {x: 0.1176542, y: 0.1536738, z: -0.16613595, w: 0.26110366}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.89950025, y: -0.0267446, z: -0.0030999584, w: 0.4360898}
+        inSlope: {x: 0.117161565, y: 0.2519464, z: -0.2631243, w: 0.24805984}
+        outSlope: {x: 0.117161565, y: 0.2519464, z: -0.2631243, w: 0.24805984}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: -0.8917223, y: -0.0033966694, z: -0.02710747, w: 0.45175755}
+        inSlope: {x: 0.13775869, y: 0.3562528, z: -0.3658055, w: 0.251004}
+        outSlope: {x: 0.13775869, y: 0.3562528, z: -0.3658055, w: 0.251004}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: -0.8811324, y: 0.020755779, z: -0.051874034, w: 0.46955702}
+        inSlope: {x: 0.17102972, y: 0.29038405, z: -0.30019006, w: 0.280127}
+        outSlope: {x: 0.17102972, y: 0.29038405, z: -0.30019006, w: 0.280127}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.86891836, y: 0.035321206, z: -0.067132816, w: 0.48910782}
+        inSlope: {x: 0.1698822, y: 0.08898858, z: -0.10091605, w: 0.28546774}
+        outSlope: {x: 0.1698822, y: 0.08898858, z: -0.10091605, w: 0.28546774}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.85848147, y: 0.03262092, z: -0.06532951, w: 0.5076194}
+        inSlope: {x: 0.14448704, y: -0.20486237, z: 0.18896882, w: 0.27376884}
+        outSlope: {x: 0.14448704, y: -0.20486237, z: 0.18896882, w: 0.27376884}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: -0.8496534, y: 0.008006226, z: -0.041936975, w: 0.5256103}
+        inSlope: {x: 0.1986793, y: -0.5279795, z: 0.5063272, w: 0.34408453}
+        outSlope: {x: 0.1986793, y: -0.5279795, z: 0.5063272, w: 0.34408453}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.8319909, y: -0.03777634, z: 0.002180785, w: 0.5534973}
+        inSlope: {x: 0.6626203, y: -0.7879921, z: 0.75216496, w: 0.8461348}
+        outSlope: {x: 0.6626203, y: -0.7879921, z: 0.75216496, w: 0.8461348}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: -0.761304, y: -0.097059414, z: 0.05835171, w: 0.63842833}
+        inSlope: {x: 1.0803189, y: -0.22493039, z: 0.17413689, w: 1.264838}
+        outSlope: {x: 1.0803189, y: -0.22493039, z: 0.17413689, w: 1.264838}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: -0.68794835, y: -0.06776708, z: 0.025399059, w: 0.7221424}
+        inSlope: {x: 0.5803639, y: 0.44223595, z: -0.48249802, w: 0.6758009}
+        outSlope: {x: 0.5803639, y: 0.44223595, z: -0.48249802, w: 0.6758009}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.6839222, y: -0.038094625, z: -0.005981356, w: 0.7285351}
+        inSlope: {x: 0.13144256, y: 0.1262137, z: -0.13139361, w: 0.135334}
+        outSlope: {x: 0.13144256, y: 0.1262137, z: -0.13139361, w: 0.135334}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: -0.6704227, y: -0.05093859, z: 0.007879913, w: 0.7401869}
+        inSlope: {x: 0.14324607, y: -0.4555369, z: 0.48298988, w: 0.07193328}
+        outSlope: {x: 0.14324607, y: -0.4555369, z: 0.48298988, w: 0.07193328}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: -0.6648227, y: -0.098832875, z: 0.05841729, w: 0.7381262}
+        inSlope: {x: -0.37918928, y: -0.7883584, z: 0.83595026, w: -0.567475}
+        outSlope: {x: -0.37918928, y: -0.7883584, z: 0.83595026, w: -0.567475}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: -0.72098124, y: -0.15605304, z: 0.11933994, w: 0.6645236}
+        inSlope: {x: -1.2543436, y: -0.30784163, z: 0.36610478, w: -1.5915062}
+        outSlope: {x: -1.2543436, y: -0.30784163, z: 0.36610478, w: -1.5915062}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: -0.8320685, y: -0.13987842, z: 0.10723126, w: 0.5259254}
+        inSlope: {x: -1.3977197, y: 0.8929764, z: -0.8352313, w: -1.8438054}
+        outSlope: {x: -1.3977197, y: 0.8929764, z: -0.8352313, w: -1.8438054}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.90734386, y: -0.03698952, z: 0.007975772, w: 0.4186829}
+        inSlope: {x: -1.1291305, y: 1.5433335, z: -1.4888324, w: -1.6086376}
+        outSlope: {x: -1.1291305, y: 1.5433335, z: -1.4888324, w: -1.6086376}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Hip.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.7772586, y: -0.00000062249205, z: 0.00000024246492, w: 0.6291813}
+        inSlope: {x: -0.20503251, y: -0.0000007079546, z: 0.0000007225605, w: -0.259071}
+        outSlope: {x: -0.20503251, y: -0.0000007079546, z: 0.0000007225605, w: -0.259071}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.7909274, y: -0.00000066968903, z: 0.00000029063563, w: 0.6119099}
+        inSlope: {x: -0.1837322, y: 0.0000009434433, z: 0.0000015731441, w: -0.23647562}
+        outSlope: {x: -0.1837322, y: 0.0000009434433, z: 0.0000015731441, w: -0.23647562}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: -0.8017562, y: -0.0000004966996, z: 0.00000045221748, w: 0.59765124}
+        inSlope: {x: -0.15599546, y: 0.0000012938148, z: 0.0000012163376, w: -0.20904419}
+        outSlope: {x: -0.15599546, y: 0.0000012938148, z: 0.0000012163376, w: -0.20904419}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: -0.8117268, y: -0.0000004971804, z: 0.000000452814, w: 0.58403736}
+        inSlope: {x: -0.15662357, y: -0.00000046992258, z: -0.0000007719564, w: -0.21815792}
+        outSlope: {x: -0.15662357, y: -0.00000046992258, z: -0.0000007719564, w: -0.21815792}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.82263935, y: -0.00000055935595, z: 0.00000034928996, w: 0.5685635}
+        inSlope: {x: -0.1827568, y: 0.0000015886395, z: 0.0000008900025, w: -0.26588786}
+        outSlope: {x: -0.1827568, y: 0.0000015886395, z: 0.0000008900025, w: -0.26588786}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.8360944, y: -0.0000002853618, z: 0.000000571481, w: 0.54858565}
+        inSlope: {x: -0.23062798, y: 0.0000021425355, z: 0.0000015633298, w: -0.35467613}
+        outSlope: {x: -0.23062798, y: 0.0000021425355, z: 0.0000015633298, w: -0.35467613}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: -0.85338974, y: -0.00000027368458, z: 0.0000005577339, w: 0.5212734}
+        inSlope: {x: -0.29426116, y: 0.00000064792465, z: 0.00000052696834, w: -0.4879368}
+        outSlope: {x: -0.29426116, y: 0.00000064792465, z: 0.00000052696834, w: -0.4879368}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.8753292, y: -0.00000019897186, z: 0.00000064174344, w: 0.48352742}
+        inSlope: {x: -0.43869483, y: 0.0000017124603, z: 0.0000017532191, w: -0.83116317}
+        outSlope: {x: -0.43869483, y: 0.0000017124603, z: 0.0000017532191, w: -0.83116317}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: -0.9118824, y: -0.000000045356472, z: 0.0000007914965, w: 0.4104516}
+        inSlope: {x: -0.54387057, y: 0.000002777345, z: 0.0000026591742, w: -1.2359749}
+        outSlope: {x: -0.54387057, y: 0.000002777345, z: 0.0000026591742, w: -1.2359749}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: -0.9478453, y: 0.00000017134083, z: 0.0000009963001, w: 0.31873074}
+        inSlope: {x: -0.37318918, y: 0.0000023381224, z: 0.0000028214522, w: -1.0210524}
+        outSlope: {x: -0.37318918, y: 0.0000023381224, z: 0.0000028214522, w: -1.0210524}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.96164095, y: 0.00000026639316, z: 0.0000011676901, w: 0.27431127}
+        inSlope: {x: -0.037227273, y: -0.0000010237208, z: 0.0000020765121, w: -0.11370042}
+        outSlope: {x: -0.037227273, y: -0.0000010237208, z: 0.0000020765121, w: -0.11370042}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: -0.9528089, y: 0.00000003484473, z: 0.0000012731683, w: 0.3035707}
+        inSlope: {x: 0.25490913, y: -0.000003532116, z: 0.00000060920576, w: 0.7434896}
+        outSlope: {x: 0.25490913, y: -0.000003532116, z: 0.00000060920576, w: 0.7434896}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: -0.9276531, y: -0.00000020455559, z: 0.0000012489176, w: 0.37344322}
+        inSlope: {x: 0.50046986, y: -0.0000042423835, z: -0.0000010628692, w: 1.1997178}
+        outSlope: {x: 0.50046986, y: -0.0000042423835, z: -0.0000010628692, w: 1.1997178}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: -0.8860796, y: -0.00000053080635, z: 0.0000011314524, w: 0.46353304}
+        inSlope: {x: 0.7148642, y: -0.0000029835182, z: -0.000003940037, w: 1.3561909}
+        outSlope: {x: 0.7148642, y: -0.0000029835182, z: -0.000003940037, w: 1.3561909}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: -0.83233786, y: -0.000000602358, z: 0.0000007235793, w: 0.55426866}
+        inSlope: {x: 0.8161578, y: -0.00000068764285, z: -0.0000066674065, w: 1.2423623}
+        outSlope: {x: 0.8161578, y: -0.00000068764285, z: -0.0000066674065, w: 1.2423623}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.7772586, y: -0.00000062249205, z: 0.00000024246492, w: 0.6291813}
+        inSlope: {x: 0.8261893, y: -0.00000030201082, z: -0.0000072167163, w: 1.1236901}
+        outSlope: {x: 0.8261893, y: -0.00000030201082, z: -0.0000072167163, w: 1.1236901}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Shoulder.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.90734375, y: 0.036990594, z: -0.007973915, w: 0.41868302}
+        inSlope: {x: 1.6885452, y: 2.075493, z: -1.9999152, w: 2.173396}
+        outSlope: {x: 1.6885452, y: 2.075493, z: -1.9999152, w: 2.173396}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.79477406, y: 0.1753568, z: -0.1413016, w: 0.5635761}
+        inSlope: {x: 1.9410958, y: 0.88727957, z: -0.80728984, w: 2.381044}
+        outSlope: {x: 1.9410958, y: 0.88727957, z: -0.80728984, w: 2.381044}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: -0.64853096, y: 0.15529454, z: -0.11561257, w: 0.73615557}
+        inSlope: {x: 1.3280064, y: -0.8072927, z: 0.88229704, w: 1.6466563}
+        outSlope: {x: 1.3280064, y: -0.8072927, z: 0.88229704, w: 1.6466563}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: -0.61770654, y: 0.06771776, z: -0.023661986, w: 0.7831303}
+        inSlope: {x: 0.044549644, y: -0.88822603, z: 0.9311503, w: 0.21839164}
+        outSlope: {x: 0.044549644, y: -0.88822603, z: 0.9311503, w: 0.21839164}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.642591, y: 0.036864385, z: 0.008540817, w: 0.76527447}
+        inSlope: {x: -0.35335514, y: -0.051509693, z: 0.032408565, w: -0.29145825}
+        outSlope: {x: -0.35335514, y: -0.051509693, z: 0.032408565, w: -0.29145825}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.66482055, y: 0.0608498, z: -0.019340843, w: 0.7442692}
+        inSlope: {x: -0.6030724, y: 0.34044912, z: -0.42194375, w: -0.6075262}
+        outSlope: {x: -0.6030724, y: 0.34044912, z: -0.42194375, w: -0.6075262}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: -0.72300065, y: 0.0822576, z: -0.047718346, w: 0.684271}
+        inSlope: {x: -0.8395033, y: -0.06330885, z: -0.027648434, w: -0.87804353}
+        outSlope: {x: -0.8395033, y: -0.06330885, z: -0.027648434, w: -0.87804353}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.7767543, y: 0.05240862, z: -0.0230273, w: 0.6271967}
+        inSlope: {x: -0.5651079, y: -0.42090708, z: 0.3672034, w: -0.61982805}
+        outSlope: {x: -0.5651079, y: -0.42090708, z: 0.3672034, w: -0.61982805}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: -0.79834837, y: 0.026136648, z: 0.0012421161, w: 0.60162723}
+        inSlope: {x: -0.2812242, y: -0.34588414, z: 0.32397938, w: -0.35301083}
+        outSlope: {x: -0.2812242, y: -0.34588414, z: 0.32397938, w: -0.35301083}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: -0.8142509, y: 0.0062907245, z: 0.020169958, w: 0.5801286}
+        inSlope: {x: -0.2364345, y: -0.22482663, z: 0.21718019, w: -0.33379513}
+        outSlope: {x: -0.2364345, y: -0.22482663, z: 0.21718019, w: -0.33379513}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.82987297, y: -0.0038402341, z: 0.030199472, w: 0.5571212}
+        inSlope: {x: -0.24534705, y: -0.07160424, z: 0.07421872, w: -0.37004206}
+        outSlope: {x: -0.24534705, y: -0.07160424, z: 0.07421872, w: -0.37004206}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: -0.8469638, y: -0.0032565072, z: 0.030065788, w: 0.5307897}
+        inSlope: {x: -0.2590205, y: 0.08076309, z: -0.071853034, w: -0.41102085}
+        outSlope: {x: -0.2590205, y: 0.08076309, z: -0.071853034, w: -0.41102085}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: -0.864409, y: 0.0069281766, z: 0.020619068, w: 0.50231844}
+        inSlope: {x: -0.25003332, y: 0.19381586, z: -0.18248257, w: -0.42710963}
+        outSlope: {x: -0.25003332, y: 0.19381586, z: -0.18248257, w: -0.42710963}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: -0.8803016, y: 0.022585606, z: 0.00573478, w: 0.47384173}
+        inSlope: {x: -0.22308336, y: 0.21917534, z: -0.20913962, w: -0.42059097}
+        outSlope: {x: -0.22308336, y: 0.21917534, z: -0.20913962, w: -0.42059097}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: -0.8941535, y: 0.036151554, z: -0.0072662123, w: 0.44623965}
+        inSlope: {x: -0.20281614, y: 0.10803741, z: -0.10281522, w: -0.41369033}
+        outSlope: {x: -0.20281614, y: 0.10803741, z: -0.10281522, w: -0.41369033}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.90734375, y: 0.036990594, z: -0.007973915, w: 0.41868302}
+        inSlope: {x: -0.19785406, y: 0.012585596, z: -0.010615542, w: -0.41334945}
+        outSlope: {x: -0.19785406, y: 0.012585596, z: -0.010615542, w: -0.41334945}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Hip.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.6301343, y: 0.0000011279011, z: 0.00000043281705, w: 0.77648616}
+        inSlope: {x: 0.5796852, y: 1.7506607, z: -1.7613657, w: 0.18970458}
+        outSlope: {x: 0.5796852, y: 1.7506607, z: -1.7613657, w: 0.18970458}
+        tangentMode: 0
+      - time: 0.06666667
+        value: {x: -0.5914886, y: 0.11671184, z: -0.11742395, w: 0.78913313}
+        inSlope: {x: -0.66612256, y: 1.7309116, z: -1.7446855, w: -1.2263712}
+        outSlope: {x: -0.66612256, y: 1.7309116, z: -1.7446855, w: -1.2263712}
+        tangentMode: 0
+      - time: 0.13333334
+        value: {x: -0.7189506, y: 0.23078935, z: -0.23262432, w: 0.61297}
+        inSlope: {x: -2.3226345, y: 0.2830389, z: -0.2925167, w: -3.1166425}
+        outSlope: {x: -2.3226345, y: 0.2830389, z: -0.2925167, w: -3.1166425}
+        tangentMode: 0
+      - time: 0.20000002
+        value: {x: -0.90117323, y: 0.15445036, z: -0.15642618, w: 0.37358075}
+        inSlope: {x: -1.8135191, y: -1.7309091, z: 1.7446811, w: -2.5167403}
+        outSlope: {x: -1.8135191, y: -1.7309091, z: 1.7446811, w: -2.5167403}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.9607532, y: 0.0000014591362, z: -0.00000017009381, w: 0.27740458}
+        inSlope: {x: -0.3804848, y: -1.4087591, z: 1.471851, w: -0.53718364}
+        outSlope: {x: -0.3804848, y: -1.4087591, z: 1.471851, w: -0.53718364}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.95190454, y: -0.033384178, z: 0.039820604, w: 0.30195627}
+        inSlope: {x: 0.24663138, y: 0.2166734, z: -0.09871814, w: 0.7061077}
+        outSlope: {x: 0.24663138, y: 0.2166734, z: -0.09871814, w: 0.7061077}
+        tangentMode: 0
+      - time: 0.4
+        value: {x: -0.927869, y: 0.028891243, z: -0.013162589, w: 0.37155226}
+        inSlope: {x: 0.4773966, y: 0.9238909, z: -0.8066471, w: 1.0756255}
+        outSlope: {x: 0.4773966, y: 0.9238909, z: -0.8066471, w: 1.0756255}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.88825166, y: 0.08980127, z: -0.06773234, w: 0.445373}
+        inSlope: {x: 0.6021724, y: 0.7568413, z: -0.69866943, w: 0.9891943}
+        outSlope: {x: 0.6021724, y: 0.7568413, z: -0.69866943, w: 0.9891943}
+        tangentMode: 0
+      - time: 0.53333336
+        value: {x: -0.84757936, y: 0.12980343, z: -0.10631853, w: 0.50344485}
+        inSlope: {x: 0.68979526, y: 0.5097243, z: -0.50457376, w: 0.9210141}
+        outSlope: {x: 0.68979526, y: 0.5097243, z: -0.50457376, w: 0.9210141}
+        tangentMode: 0
+      - time: 0.6
+        value: {x: -0.79627895, y: 0.15776452, z: -0.13500886, w: 0.5681749}
+        inSlope: {x: 0.8142445, y: 0.27855682, z: -0.3022083, w: 0.9941484}
+        outSlope: {x: 0.8142445, y: 0.27855682, z: -0.3022083, w: 0.9941484}
+        tangentMode: 0
+      - time: 0.6666667
+        value: {x: -0.73901343, y: 0.16694434, z: -0.14661297, w: 0.63599795}
+        inSlope: {x: 0.8418221, y: -0.025099218, z: -0.020368136, w: 0.98483974}
+        outSlope: {x: 0.8418221, y: -0.025099218, z: -0.020368136, w: 0.98483974}
+        tangentMode: 0
+      - time: 0.73333335
+        value: {x: -0.684036, y: 0.15441796, z: -0.13772461, w: 0.69948685}
+        inSlope: {x: 0.73662317, y: -0.33271742, z: 0.2727619, w: 0.8535098}
+        outSlope: {x: 0.73662317, y: -0.33271742, z: 0.2727619, w: 0.8535098}
+        tangentMode: 0
+      - time: 0.8
+        value: {x: -0.640797, y: 0.12258202, z: -0.11024472, w: 0.74979925}
+        inSlope: {x: 0.5052026, y: -0.56507456, z: 0.49810916, w: 0.60371923}
+        outSlope: {x: 0.5052026, y: -0.56507456, z: 0.49810916, w: 0.60371923}
+        tangentMode: 0
+      - time: 0.8666667
+        value: {x: -0.6166757, y: 0.079074696, z: -0.07131006, w: 0.77998275}
+        inSlope: {x: 0.199454, y: -0.65916455, z: 0.5927552, w: 0.2847572}
+        outSlope: {x: 0.199454, y: -0.65916455, z: 0.5927552, w: 0.2847572}
+        tangentMode: 0
+      - time: 0.93333334
+        value: {x: -0.61420316, y: 0.034693412, z: -0.031210698, w: 0.7877669}
+        inSlope: {x: -0.10093958, y: -0.5930518, z: 0.5348287, w: -0.026224408}
+        outSlope: {x: -0.10093958, y: -0.5930518, z: 0.5348287, w: -0.026224408}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.6301343, y: 0.0000011279011, z: 0.00000043281705, w: 0.77648616}
+        inSlope: {x: -0.23896696, y: -0.5203843, z: 0.46816698, w: -0.16921075}
+        outSlope: {x: -0.23896696, y: -0.5203843, z: 0.46816698, w: -0.16921075}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Shoulder.R
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0.00146, z: 0.0049}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0, y: -0.00146, z: 0.0049}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0000000055534835, y: -0.00097519427, z: 0.0005736576}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.0000000055534835, y: -0.00097519427, z: 0.0005736576}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Tail
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.000000007779417, y: 0.0028284232, z: 0.000000009429641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.000000007779417, y: 0.0028284232, z: 0.000000009429641}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0009999925, y: 0.0028213528, z: -0.0011101469}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.0009999925, y: 0.0028213528, z: -0.0011101469}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Shoulder.L
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.0009999961, y: 0.0028213535, z: -0.0011101469}
+        inSlope: {x: -0.000000014842953, y: -0.00019257596, z: 0.0017630507}
+        outSlope: {x: -0.000000014842953, y: -0.00019257596, z: 0.0017630507}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.001, y: 0.00277, z: -0.00064}
+        inSlope: {x: 0.000000002473827, y: -0.00008611153, z: 0.0007880524}
+        outSlope: {x: 0.000000002473827, y: -0.00008611153, z: 0.0007880524}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.0009999961, y: 0.0027740705, z: -0.00067738915}
+        inSlope: {x: 0.000000009895303, y: 0.000054504275, z: -0.0004991833}
+        outSlope: {x: 0.000000009895303, y: 0.000054504275, z: -0.0004991833}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.0009999961, y: 0.0028213535, z: -0.0011101469}
+        inSlope: {x: 0, y: 0.00008865566, z: -0.0008114208}
+        outSlope: {x: 0, y: 0.00008865566, z: -0.0008114208}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Chest/Shoulder.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0.0012999874, y: 0.00024557207, z: -0.00034954032}
+        inSlope: {x: -0.000000047148202, y: -0.0009583952, z: 0.0017232761}
+        outSlope: {x: -0.000000047148202, y: -0.0009583952, z: 0.0017232761}
+        tangentMode: 0
+      - time: 0.26666668
+        value: {x: -0.0013, y: -0.00001, z: 0.00011}
+        inSlope: {x: -0.000000038126018, y: -0.00042838152, z: 0.0007702793}
+        outSlope: {x: -0.000000038126018, y: -0.00042838152, z: 0.0007702793}
+        tangentMode: 0
+      - time: 0.46666667
+        value: {x: -0.0013000058, y: 0.0000103264265, z: 0.00007345651}
+        inSlope: {x: 0.0000000026921052, y: 0.00027135888, z: -0.00048791827}
+        outSlope: {x: 0.0000000026921052, y: 0.00027135888, z: -0.00048791827}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0.0012999874, y: 0.00024557207, z: -0.00034954032}
+        inSlope: {x: 0.000000034488043, y: 0.0004410856, z: -0.0007931191}
+        outSlope: {x: 0.000000034488043, y: 0.0004410856, z: -0.0007931191}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Hip.R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.0012999964, y: 0.0002455714, z: -0.0003495447}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0.0012999964, y: 0.0002455714, z: -0.0003495447}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: lyra_armature/Spine/Hip.L
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 15
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3957902514
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2669790791
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1697577764
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 300413393
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2669790791
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3957902514
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1626406640
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2252775945
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 440457375
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 300413393
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1697577764
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1626406640
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2252775945
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 440457375
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 1
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00146
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.00146
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0049
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0049
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0000000055534835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0000000055534835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00097519427
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.00097519427
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0005736576
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0005736576
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.000000007779417
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.000000007779417
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0028284232
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0028284232
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.000000009429641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.000000009429641
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0009999925
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0009999925
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0028213528
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0028213528
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0011101469
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.0011101469
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0009999961
+        inSlope: -0.000000014842953
+        outSlope: -0.000000014842953
+        tangentMode: 10
+      - time: 0.26666668
+        value: -0.001
+        inSlope: 0.000000002473827
+        outSlope: 0.000000002473827
+        tangentMode: 10
+      - time: 0.46666667
+        value: -0.0009999961
+        inSlope: 0.000000009895303
+        outSlope: 0.000000009895303
+        tangentMode: 10
+      - time: 1
+        value: -0.0009999961
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0028213535
+        inSlope: -0.00019257596
+        outSlope: -0.00019257596
+        tangentMode: 10
+      - time: 0.26666668
+        value: 0.00277
+        inSlope: -0.00008611153
+        outSlope: -0.00008611153
+        tangentMode: 10
+      - time: 0.46666667
+        value: 0.0027740705
+        inSlope: 0.000054504275
+        outSlope: 0.000054504275
+        tangentMode: 10
+      - time: 1
+        value: 0.0028213535
+        inSlope: 0.00008865566
+        outSlope: 0.00008865566
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0011101469
+        inSlope: 0.0017630507
+        outSlope: 0.0017630507
+        tangentMode: 10
+      - time: 0.26666668
+        value: -0.00064
+        inSlope: 0.0007880524
+        outSlope: 0.0007880524
+        tangentMode: 10
+      - time: 0.46666667
+        value: -0.00067738915
+        inSlope: -0.0004991833
+        outSlope: -0.0004991833
+        tangentMode: 10
+      - time: 1
+        value: -0.0011101469
+        inSlope: -0.0008114208
+        outSlope: -0.0008114208
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0012999874
+        inSlope: -0.000000047148202
+        outSlope: -0.000000047148202
+        tangentMode: 10
+      - time: 0.26666668
+        value: -0.0013
+        inSlope: -0.000000038126018
+        outSlope: -0.000000038126018
+        tangentMode: 10
+      - time: 0.46666667
+        value: -0.0013000058
+        inSlope: 0.0000000026921052
+        outSlope: 0.0000000026921052
+        tangentMode: 10
+      - time: 1
+        value: -0.0012999874
+        inSlope: 0.000000034488043
+        outSlope: 0.000000034488043
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00024557207
+        inSlope: -0.0009583952
+        outSlope: -0.0009583952
+        tangentMode: 10
+      - time: 0.26666668
+        value: -0.00001
+        inSlope: -0.00042838152
+        outSlope: -0.00042838152
+        tangentMode: 10
+      - time: 0.46666667
+        value: 0.0000103264265
+        inSlope: 0.00027135888
+        outSlope: 0.00027135888
+        tangentMode: 10
+      - time: 1
+        value: 0.00024557207
+        inSlope: 0.0004410856
+        outSlope: 0.0004410856
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00034954032
+        inSlope: 0.0017232761
+        outSlope: 0.0017232761
+        tangentMode: 10
+      - time: 0.26666668
+        value: 0.00011
+        inSlope: 0.0007702793
+        outSlope: 0.0007702793
+        tangentMode: 10
+      - time: 0.46666667
+        value: 0.00007345651
+        inSlope: -0.00048791827
+        outSlope: -0.00048791827
+        tangentMode: 10
+      - time: 1
+        value: -0.00034954032
+        inSlope: -0.0007931191
+        outSlope: -0.0007931191
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0012999964
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0012999964
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0002455714
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.0002455714
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0003495447
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.0003495447
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.0000007857947
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.5083186
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.8611691
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.000000314342
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0.00000078237565
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0.46771035
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0.8838818
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.00000051767904
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.23527296
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0.0000005531157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0.0000002316182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.4
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0.9719293
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.90734386
+        inSlope: 0.1176542
+        outSlope: 0.1176542
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.89950025
+        inSlope: 0.117161565
+        outSlope: 0.117161565
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.8917223
+        inSlope: 0.13775869
+        outSlope: 0.13775869
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.8811324
+        inSlope: 0.17102972
+        outSlope: 0.17102972
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.86891836
+        inSlope: 0.1698822
+        outSlope: 0.1698822
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.85848147
+        inSlope: 0.14448704
+        outSlope: 0.14448704
+        tangentMode: 0
+      - time: 0.4
+        value: -0.8496534
+        inSlope: 0.1986793
+        outSlope: 0.1986793
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.8319909
+        inSlope: 0.6626203
+        outSlope: 0.6626203
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.761304
+        inSlope: 1.0803189
+        outSlope: 1.0803189
+        tangentMode: 0
+      - time: 0.6
+        value: -0.68794835
+        inSlope: 0.5803639
+        outSlope: 0.5803639
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.6839222
+        inSlope: 0.13144256
+        outSlope: 0.13144256
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.6704227
+        inSlope: 0.14324607
+        outSlope: 0.14324607
+        tangentMode: 0
+      - time: 0.8
+        value: -0.6648227
+        inSlope: -0.37918928
+        outSlope: -0.37918928
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.72098124
+        inSlope: -1.2543436
+        outSlope: -1.2543436
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.8320685
+        inSlope: -1.3977197
+        outSlope: -1.3977197
+        tangentMode: 0
+      - time: 1
+        value: -0.90734386
+        inSlope: -1.1291305
+        outSlope: -1.1291305
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.03698952
+        inSlope: 0.1536738
+        outSlope: 0.1536738
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.0267446
+        inSlope: 0.2519464
+        outSlope: 0.2519464
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.0033966694
+        inSlope: 0.3562528
+        outSlope: 0.3562528
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.020755779
+        inSlope: 0.29038405
+        outSlope: 0.29038405
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.035321206
+        inSlope: 0.08898858
+        outSlope: 0.08898858
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.03262092
+        inSlope: -0.20486237
+        outSlope: -0.20486237
+        tangentMode: 0
+      - time: 0.4
+        value: 0.008006226
+        inSlope: -0.5279795
+        outSlope: -0.5279795
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.03777634
+        inSlope: -0.7879921
+        outSlope: -0.7879921
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.097059414
+        inSlope: -0.22493039
+        outSlope: -0.22493039
+        tangentMode: 0
+      - time: 0.6
+        value: -0.06776708
+        inSlope: 0.44223595
+        outSlope: 0.44223595
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.038094625
+        inSlope: 0.1262137
+        outSlope: 0.1262137
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.05093859
+        inSlope: -0.4555369
+        outSlope: -0.4555369
+        tangentMode: 0
+      - time: 0.8
+        value: -0.098832875
+        inSlope: -0.7883584
+        outSlope: -0.7883584
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.15605304
+        inSlope: -0.30784163
+        outSlope: -0.30784163
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.13987842
+        inSlope: 0.8929764
+        outSlope: 0.8929764
+        tangentMode: 0
+      - time: 1
+        value: -0.03698952
+        inSlope: 1.5433335
+        outSlope: 1.5433335
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.007975772
+        inSlope: -0.16613595
+        outSlope: -0.16613595
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.0030999584
+        inSlope: -0.2631243
+        outSlope: -0.2631243
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.02710747
+        inSlope: -0.3658055
+        outSlope: -0.3658055
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.051874034
+        inSlope: -0.30019006
+        outSlope: -0.30019006
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.067132816
+        inSlope: -0.10091605
+        outSlope: -0.10091605
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.06532951
+        inSlope: 0.18896882
+        outSlope: 0.18896882
+        tangentMode: 0
+      - time: 0.4
+        value: -0.041936975
+        inSlope: 0.5063272
+        outSlope: 0.5063272
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.002180785
+        inSlope: 0.75216496
+        outSlope: 0.75216496
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.05835171
+        inSlope: 0.17413689
+        outSlope: 0.17413689
+        tangentMode: 0
+      - time: 0.6
+        value: 0.025399059
+        inSlope: -0.48249802
+        outSlope: -0.48249802
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.005981356
+        inSlope: -0.13139361
+        outSlope: -0.13139361
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.007879913
+        inSlope: 0.48298988
+        outSlope: 0.48298988
+        tangentMode: 0
+      - time: 0.8
+        value: 0.05841729
+        inSlope: 0.83595026
+        outSlope: 0.83595026
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.11933994
+        inSlope: 0.36610478
+        outSlope: 0.36610478
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.10723126
+        inSlope: -0.8352313
+        outSlope: -0.8352313
+        tangentMode: 0
+      - time: 1
+        value: 0.007975772
+        inSlope: -1.4888324
+        outSlope: -1.4888324
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.4186829
+        inSlope: 0.26110366
+        outSlope: 0.26110366
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.4360898
+        inSlope: 0.24805984
+        outSlope: 0.24805984
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.45175755
+        inSlope: 0.251004
+        outSlope: 0.251004
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.46955702
+        inSlope: 0.280127
+        outSlope: 0.280127
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.48910782
+        inSlope: 0.28546774
+        outSlope: 0.28546774
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.5076194
+        inSlope: 0.27376884
+        outSlope: 0.27376884
+        tangentMode: 0
+      - time: 0.4
+        value: 0.5256103
+        inSlope: 0.34408453
+        outSlope: 0.34408453
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.5534973
+        inSlope: 0.8461348
+        outSlope: 0.8461348
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.63842833
+        inSlope: 1.264838
+        outSlope: 1.264838
+        tangentMode: 0
+      - time: 0.6
+        value: 0.7221424
+        inSlope: 0.6758009
+        outSlope: 0.6758009
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.7285351
+        inSlope: 0.135334
+        outSlope: 0.135334
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.7401869
+        inSlope: 0.07193328
+        outSlope: 0.07193328
+        tangentMode: 0
+      - time: 0.8
+        value: 0.7381262
+        inSlope: -0.567475
+        outSlope: -0.567475
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.6645236
+        inSlope: -1.5915062
+        outSlope: -1.5915062
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.5259254
+        inSlope: -1.8438054
+        outSlope: -1.8438054
+        tangentMode: 0
+      - time: 1
+        value: 0.4186829
+        inSlope: -1.6086376
+        outSlope: -1.6086376
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.7772586
+        inSlope: -0.20503251
+        outSlope: -0.20503251
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.7909274
+        inSlope: -0.1837322
+        outSlope: -0.1837322
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.8017562
+        inSlope: -0.15599546
+        outSlope: -0.15599546
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.8117268
+        inSlope: -0.15662357
+        outSlope: -0.15662357
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.82263935
+        inSlope: -0.1827568
+        outSlope: -0.1827568
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.8360944
+        inSlope: -0.23062798
+        outSlope: -0.23062798
+        tangentMode: 0
+      - time: 0.4
+        value: -0.85338974
+        inSlope: -0.29426116
+        outSlope: -0.29426116
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.8753292
+        inSlope: -0.43869483
+        outSlope: -0.43869483
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.9118824
+        inSlope: -0.54387057
+        outSlope: -0.54387057
+        tangentMode: 0
+      - time: 0.6
+        value: -0.9478453
+        inSlope: -0.37318918
+        outSlope: -0.37318918
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.96164095
+        inSlope: -0.037227273
+        outSlope: -0.037227273
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.9528089
+        inSlope: 0.25490913
+        outSlope: 0.25490913
+        tangentMode: 0
+      - time: 0.8
+        value: -0.9276531
+        inSlope: 0.50046986
+        outSlope: 0.50046986
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.8860796
+        inSlope: 0.7148642
+        outSlope: 0.7148642
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.83233786
+        inSlope: 0.8161578
+        outSlope: 0.8161578
+        tangentMode: 0
+      - time: 1
+        value: -0.7772586
+        inSlope: 0.8261893
+        outSlope: 0.8261893
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.00000062249205
+        inSlope: -0.0000007079546
+        outSlope: -0.0000007079546
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.00000066968903
+        inSlope: 0.0000009434433
+        outSlope: 0.0000009434433
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.0000004966996
+        inSlope: 0.0000012938148
+        outSlope: 0.0000012938148
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.0000004971804
+        inSlope: -0.00000046992258
+        outSlope: -0.00000046992258
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.00000055935595
+        inSlope: 0.0000015886395
+        outSlope: 0.0000015886395
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.0000002853618
+        inSlope: 0.0000021425355
+        outSlope: 0.0000021425355
+        tangentMode: 0
+      - time: 0.4
+        value: -0.00000027368458
+        inSlope: 0.00000064792465
+        outSlope: 0.00000064792465
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.00000019897186
+        inSlope: 0.0000017124603
+        outSlope: 0.0000017124603
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.000000045356472
+        inSlope: 0.000002777345
+        outSlope: 0.000002777345
+        tangentMode: 0
+      - time: 0.6
+        value: 0.00000017134083
+        inSlope: 0.0000023381224
+        outSlope: 0.0000023381224
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.00000026639316
+        inSlope: -0.0000010237208
+        outSlope: -0.0000010237208
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.00000003484473
+        inSlope: -0.000003532116
+        outSlope: -0.000003532116
+        tangentMode: 0
+      - time: 0.8
+        value: -0.00000020455559
+        inSlope: -0.0000042423835
+        outSlope: -0.0000042423835
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.00000053080635
+        inSlope: -0.0000029835182
+        outSlope: -0.0000029835182
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.000000602358
+        inSlope: -0.00000068764285
+        outSlope: -0.00000068764285
+        tangentMode: 0
+      - time: 1
+        value: -0.00000062249205
+        inSlope: -0.00000030201082
+        outSlope: -0.00000030201082
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000024246492
+        inSlope: 0.0000007225605
+        outSlope: 0.0000007225605
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.00000029063563
+        inSlope: 0.0000015731441
+        outSlope: 0.0000015731441
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.00000045221748
+        inSlope: 0.0000012163376
+        outSlope: 0.0000012163376
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.000000452814
+        inSlope: -0.0000007719564
+        outSlope: -0.0000007719564
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.00000034928996
+        inSlope: 0.0000008900025
+        outSlope: 0.0000008900025
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.000000571481
+        inSlope: 0.0000015633298
+        outSlope: 0.0000015633298
+        tangentMode: 0
+      - time: 0.4
+        value: 0.0000005577339
+        inSlope: 0.00000052696834
+        outSlope: 0.00000052696834
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.00000064174344
+        inSlope: 0.0000017532191
+        outSlope: 0.0000017532191
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.0000007914965
+        inSlope: 0.0000026591742
+        outSlope: 0.0000026591742
+        tangentMode: 0
+      - time: 0.6
+        value: 0.0000009963001
+        inSlope: 0.0000028214522
+        outSlope: 0.0000028214522
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.0000011676901
+        inSlope: 0.0000020765121
+        outSlope: 0.0000020765121
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.0000012731683
+        inSlope: 0.00000060920576
+        outSlope: 0.00000060920576
+        tangentMode: 0
+      - time: 0.8
+        value: 0.0000012489176
+        inSlope: -0.0000010628692
+        outSlope: -0.0000010628692
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.0000011314524
+        inSlope: -0.000003940037
+        outSlope: -0.000003940037
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.0000007235793
+        inSlope: -0.0000066674065
+        outSlope: -0.0000066674065
+        tangentMode: 0
+      - time: 1
+        value: 0.00000024246492
+        inSlope: -0.0000072167163
+        outSlope: -0.0000072167163
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.6291813
+        inSlope: -0.259071
+        outSlope: -0.259071
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.6119099
+        inSlope: -0.23647562
+        outSlope: -0.23647562
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.59765124
+        inSlope: -0.20904419
+        outSlope: -0.20904419
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.58403736
+        inSlope: -0.21815792
+        outSlope: -0.21815792
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.5685635
+        inSlope: -0.26588786
+        outSlope: -0.26588786
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.54858565
+        inSlope: -0.35467613
+        outSlope: -0.35467613
+        tangentMode: 0
+      - time: 0.4
+        value: 0.5212734
+        inSlope: -0.4879368
+        outSlope: -0.4879368
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.48352742
+        inSlope: -0.83116317
+        outSlope: -0.83116317
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.4104516
+        inSlope: -1.2359749
+        outSlope: -1.2359749
+        tangentMode: 0
+      - time: 0.6
+        value: 0.31873074
+        inSlope: -1.0210524
+        outSlope: -1.0210524
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.27431127
+        inSlope: -0.11370042
+        outSlope: -0.11370042
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.3035707
+        inSlope: 0.7434896
+        outSlope: 0.7434896
+        tangentMode: 0
+      - time: 0.8
+        value: 0.37344322
+        inSlope: 1.1997178
+        outSlope: 1.1997178
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.46353304
+        inSlope: 1.3561909
+        outSlope: 1.3561909
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.55426866
+        inSlope: 1.2423623
+        outSlope: 1.2423623
+        tangentMode: 0
+      - time: 1
+        value: 0.6291813
+        inSlope: 1.1236901
+        outSlope: 1.1236901
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.90734375
+        inSlope: 1.6885452
+        outSlope: 1.6885452
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.79477406
+        inSlope: 1.9410958
+        outSlope: 1.9410958
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.64853096
+        inSlope: 1.3280064
+        outSlope: 1.3280064
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.61770654
+        inSlope: 0.044549644
+        outSlope: 0.044549644
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.642591
+        inSlope: -0.35335514
+        outSlope: -0.35335514
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.66482055
+        inSlope: -0.6030724
+        outSlope: -0.6030724
+        tangentMode: 0
+      - time: 0.4
+        value: -0.72300065
+        inSlope: -0.8395033
+        outSlope: -0.8395033
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.7767543
+        inSlope: -0.5651079
+        outSlope: -0.5651079
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.79834837
+        inSlope: -0.2812242
+        outSlope: -0.2812242
+        tangentMode: 0
+      - time: 0.6
+        value: -0.8142509
+        inSlope: -0.2364345
+        outSlope: -0.2364345
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.82987297
+        inSlope: -0.24534705
+        outSlope: -0.24534705
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.8469638
+        inSlope: -0.2590205
+        outSlope: -0.2590205
+        tangentMode: 0
+      - time: 0.8
+        value: -0.864409
+        inSlope: -0.25003332
+        outSlope: -0.25003332
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.8803016
+        inSlope: -0.22308336
+        outSlope: -0.22308336
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.8941535
+        inSlope: -0.20281614
+        outSlope: -0.20281614
+        tangentMode: 0
+      - time: 1
+        value: -0.90734375
+        inSlope: -0.19785406
+        outSlope: -0.19785406
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.036990594
+        inSlope: 2.075493
+        outSlope: 2.075493
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.1753568
+        inSlope: 0.88727957
+        outSlope: 0.88727957
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.15529454
+        inSlope: -0.8072927
+        outSlope: -0.8072927
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.06771776
+        inSlope: -0.88822603
+        outSlope: -0.88822603
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.036864385
+        inSlope: -0.051509693
+        outSlope: -0.051509693
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.0608498
+        inSlope: 0.34044912
+        outSlope: 0.34044912
+        tangentMode: 0
+      - time: 0.4
+        value: 0.0822576
+        inSlope: -0.06330885
+        outSlope: -0.06330885
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.05240862
+        inSlope: -0.42090708
+        outSlope: -0.42090708
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.026136648
+        inSlope: -0.34588414
+        outSlope: -0.34588414
+        tangentMode: 0
+      - time: 0.6
+        value: 0.0062907245
+        inSlope: -0.22482663
+        outSlope: -0.22482663
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.0038402341
+        inSlope: -0.07160424
+        outSlope: -0.07160424
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.0032565072
+        inSlope: 0.08076309
+        outSlope: 0.08076309
+        tangentMode: 0
+      - time: 0.8
+        value: 0.0069281766
+        inSlope: 0.19381586
+        outSlope: 0.19381586
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.022585606
+        inSlope: 0.21917534
+        outSlope: 0.21917534
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.036151554
+        inSlope: 0.10803741
+        outSlope: 0.10803741
+        tangentMode: 0
+      - time: 1
+        value: 0.036990594
+        inSlope: 0.012585596
+        outSlope: 0.012585596
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.007973915
+        inSlope: -1.9999152
+        outSlope: -1.9999152
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.1413016
+        inSlope: -0.80728984
+        outSlope: -0.80728984
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.11561257
+        inSlope: 0.88229704
+        outSlope: 0.88229704
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.023661986
+        inSlope: 0.9311503
+        outSlope: 0.9311503
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.008540817
+        inSlope: 0.032408565
+        outSlope: 0.032408565
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.019340843
+        inSlope: -0.42194375
+        outSlope: -0.42194375
+        tangentMode: 0
+      - time: 0.4
+        value: -0.047718346
+        inSlope: -0.027648434
+        outSlope: -0.027648434
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.0230273
+        inSlope: 0.3672034
+        outSlope: 0.3672034
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.0012421161
+        inSlope: 0.32397938
+        outSlope: 0.32397938
+        tangentMode: 0
+      - time: 0.6
+        value: 0.020169958
+        inSlope: 0.21718019
+        outSlope: 0.21718019
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.030199472
+        inSlope: 0.07421872
+        outSlope: 0.07421872
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.030065788
+        inSlope: -0.071853034
+        outSlope: -0.071853034
+        tangentMode: 0
+      - time: 0.8
+        value: 0.020619068
+        inSlope: -0.18248257
+        outSlope: -0.18248257
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.00573478
+        inSlope: -0.20913962
+        outSlope: -0.20913962
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.0072662123
+        inSlope: -0.10281522
+        outSlope: -0.10281522
+        tangentMode: 0
+      - time: 1
+        value: -0.007973915
+        inSlope: -0.010615542
+        outSlope: -0.010615542
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.41868302
+        inSlope: 2.173396
+        outSlope: 2.173396
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.5635761
+        inSlope: 2.381044
+        outSlope: 2.381044
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.73615557
+        inSlope: 1.6466563
+        outSlope: 1.6466563
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.7831303
+        inSlope: 0.21839164
+        outSlope: 0.21839164
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.76527447
+        inSlope: -0.29145825
+        outSlope: -0.29145825
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.7442692
+        inSlope: -0.6075262
+        outSlope: -0.6075262
+        tangentMode: 0
+      - time: 0.4
+        value: 0.684271
+        inSlope: -0.87804353
+        outSlope: -0.87804353
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.6271967
+        inSlope: -0.61982805
+        outSlope: -0.61982805
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.60162723
+        inSlope: -0.35301083
+        outSlope: -0.35301083
+        tangentMode: 0
+      - time: 0.6
+        value: 0.5801286
+        inSlope: -0.33379513
+        outSlope: -0.33379513
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.5571212
+        inSlope: -0.37004206
+        outSlope: -0.37004206
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.5307897
+        inSlope: -0.41102085
+        outSlope: -0.41102085
+        tangentMode: 0
+      - time: 0.8
+        value: 0.50231844
+        inSlope: -0.42710963
+        outSlope: -0.42710963
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.47384173
+        inSlope: -0.42059097
+        outSlope: -0.42059097
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.44623965
+        inSlope: -0.41369033
+        outSlope: -0.41369033
+        tangentMode: 0
+      - time: 1
+        value: 0.41868302
+        inSlope: -0.41334945
+        outSlope: -0.41334945
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.6301343
+        inSlope: 0.5796852
+        outSlope: 0.5796852
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.5914886
+        inSlope: -0.66612256
+        outSlope: -0.66612256
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.7189506
+        inSlope: -2.3226345
+        outSlope: -2.3226345
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.90117323
+        inSlope: -1.8135191
+        outSlope: -1.8135191
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.9607532
+        inSlope: -0.3804848
+        outSlope: -0.3804848
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.95190454
+        inSlope: 0.24663138
+        outSlope: 0.24663138
+        tangentMode: 0
+      - time: 0.4
+        value: -0.927869
+        inSlope: 0.4773966
+        outSlope: 0.4773966
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.88825166
+        inSlope: 0.6021724
+        outSlope: 0.6021724
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.84757936
+        inSlope: 0.68979526
+        outSlope: 0.68979526
+        tangentMode: 0
+      - time: 0.6
+        value: -0.79627895
+        inSlope: 0.8142445
+        outSlope: 0.8142445
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.73901343
+        inSlope: 0.8418221
+        outSlope: 0.8418221
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.684036
+        inSlope: 0.73662317
+        outSlope: 0.73662317
+        tangentMode: 0
+      - time: 0.8
+        value: -0.640797
+        inSlope: 0.5052026
+        outSlope: 0.5052026
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.6166757
+        inSlope: 0.199454
+        outSlope: 0.199454
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.61420316
+        inSlope: -0.10093958
+        outSlope: -0.10093958
+        tangentMode: 0
+      - time: 1
+        value: -0.6301343
+        inSlope: -0.23896696
+        outSlope: -0.23896696
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.0000011279011
+        inSlope: 1.7506607
+        outSlope: 1.7506607
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.11671184
+        inSlope: 1.7309116
+        outSlope: 1.7309116
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.23078935
+        inSlope: 0.2830389
+        outSlope: 0.2830389
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.15445036
+        inSlope: -1.7309091
+        outSlope: -1.7309091
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.0000014591362
+        inSlope: -1.4087591
+        outSlope: -1.4087591
+        tangentMode: 0
+      - time: 0.33333334
+        value: -0.033384178
+        inSlope: 0.2166734
+        outSlope: 0.2166734
+        tangentMode: 0
+      - time: 0.4
+        value: 0.028891243
+        inSlope: 0.9238909
+        outSlope: 0.9238909
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.08980127
+        inSlope: 0.7568413
+        outSlope: 0.7568413
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.12980343
+        inSlope: 0.5097243
+        outSlope: 0.5097243
+        tangentMode: 0
+      - time: 0.6
+        value: 0.15776452
+        inSlope: 0.27855682
+        outSlope: 0.27855682
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.16694434
+        inSlope: -0.025099218
+        outSlope: -0.025099218
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.15441796
+        inSlope: -0.33271742
+        outSlope: -0.33271742
+        tangentMode: 0
+      - time: 0.8
+        value: 0.12258202
+        inSlope: -0.56507456
+        outSlope: -0.56507456
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.079074696
+        inSlope: -0.65916455
+        outSlope: -0.65916455
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.034693412
+        inSlope: -0.5930518
+        outSlope: -0.5930518
+        tangentMode: 0
+      - time: 1
+        value: 0.0000011279011
+        inSlope: -0.5203843
+        outSlope: -0.5203843
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00000043281705
+        inSlope: -1.7613657
+        outSlope: -1.7613657
+        tangentMode: 0
+      - time: 0.06666667
+        value: -0.11742395
+        inSlope: -1.7446855
+        outSlope: -1.7446855
+        tangentMode: 0
+      - time: 0.13333334
+        value: -0.23262432
+        inSlope: -0.2925167
+        outSlope: -0.2925167
+        tangentMode: 0
+      - time: 0.20000002
+        value: -0.15642618
+        inSlope: 1.7446811
+        outSlope: 1.7446811
+        tangentMode: 0
+      - time: 0.26666668
+        value: -0.00000017009381
+        inSlope: 1.471851
+        outSlope: 1.471851
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.039820604
+        inSlope: -0.09871814
+        outSlope: -0.09871814
+        tangentMode: 0
+      - time: 0.4
+        value: -0.013162589
+        inSlope: -0.8066471
+        outSlope: -0.8066471
+        tangentMode: 0
+      - time: 0.46666667
+        value: -0.06773234
+        inSlope: -0.69866943
+        outSlope: -0.69866943
+        tangentMode: 0
+      - time: 0.53333336
+        value: -0.10631853
+        inSlope: -0.50457376
+        outSlope: -0.50457376
+        tangentMode: 0
+      - time: 0.6
+        value: -0.13500886
+        inSlope: -0.3022083
+        outSlope: -0.3022083
+        tangentMode: 0
+      - time: 0.6666667
+        value: -0.14661297
+        inSlope: -0.020368136
+        outSlope: -0.020368136
+        tangentMode: 0
+      - time: 0.73333335
+        value: -0.13772461
+        inSlope: 0.2727619
+        outSlope: 0.2727619
+        tangentMode: 0
+      - time: 0.8
+        value: -0.11024472
+        inSlope: 0.49810916
+        outSlope: 0.49810916
+        tangentMode: 0
+      - time: 0.8666667
+        value: -0.07131006
+        inSlope: 0.5927552
+        outSlope: 0.5927552
+        tangentMode: 0
+      - time: 0.93333334
+        value: -0.031210698
+        inSlope: 0.5348287
+        outSlope: 0.5348287
+        tangentMode: 0
+      - time: 1
+        value: 0.00000043281705
+        inSlope: 0.46816698
+        outSlope: 0.46816698
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.77648616
+        inSlope: 0.18970458
+        outSlope: 0.18970458
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0.78913313
+        inSlope: -1.2263712
+        outSlope: -1.2263712
+        tangentMode: 0
+      - time: 0.13333334
+        value: 0.61297
+        inSlope: -3.1166425
+        outSlope: -3.1166425
+        tangentMode: 0
+      - time: 0.20000002
+        value: 0.37358075
+        inSlope: -2.5167403
+        outSlope: -2.5167403
+        tangentMode: 0
+      - time: 0.26666668
+        value: 0.27740458
+        inSlope: -0.53718364
+        outSlope: -0.53718364
+        tangentMode: 0
+      - time: 0.33333334
+        value: 0.30195627
+        inSlope: 0.7061077
+        outSlope: 0.7061077
+        tangentMode: 0
+      - time: 0.4
+        value: 0.37155226
+        inSlope: 1.0756255
+        outSlope: 1.0756255
+        tangentMode: 0
+      - time: 0.46666667
+        value: 0.445373
+        inSlope: 0.9891943
+        outSlope: 0.9891943
+        tangentMode: 0
+      - time: 0.53333336
+        value: 0.50344485
+        inSlope: 0.9210141
+        outSlope: 0.9210141
+        tangentMode: 0
+      - time: 0.6
+        value: 0.5681749
+        inSlope: 0.9941484
+        outSlope: 0.9941484
+        tangentMode: 0
+      - time: 0.6666667
+        value: 0.63599795
+        inSlope: 0.98483974
+        outSlope: 0.98483974
+        tangentMode: 0
+      - time: 0.73333335
+        value: 0.69948685
+        inSlope: 0.8535098
+        outSlope: 0.8535098
+        tangentMode: 0
+      - time: 0.8
+        value: 0.74979925
+        inSlope: 0.60371923
+        outSlope: 0.60371923
+        tangentMode: 0
+      - time: 0.8666667
+        value: 0.77998275
+        inSlope: 0.2847572
+        outSlope: 0.2847572
+        tangentMode: 0
+      - time: 0.93333334
+        value: 0.7877669
+        inSlope: -0.026224408
+        outSlope: -0.026224408
+        tangentMode: 0
+      - time: 1
+        value: 0.77648616
+        inSlope: -0.16921075
+        outSlope: -0.16921075
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -61.10379
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -61.10379
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00019836426
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.00019836426
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 179.99982
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 179.99982
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 304.22842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 304.22842
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.000091552734
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0.000091552734
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 180
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Tail
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 27.215424
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 27.215424
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.000076293945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.000076293945
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.000045776367
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -0.000045776367
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Chest/Neck
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 282.02048
+        inSlope: 43.173065
+        outSlope: 43.173065
+        tangentMode: 10
+      - time: 0.46666667
+        value: 302.1679
+        inSlope: 86.561806
+        outSlope: 86.561806
+        tangentMode: 10
+      - time: 0.6666667
+        value: 328.15802
+        inSlope: -4.2310486
+        outSlope: -4.2310486
+        tangentMode: 10
+      - time: 1
+        value: 282.02048
+        inSlope: -138.41264
+        outSlope: -138.41264
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 180.0003
+        inSlope: -0.00039236885
+        outSlope: -0.00039236885
+        tangentMode: 10
+      - time: 0.46666667
+        value: 180.00012
+        inSlope: -0.00019618442
+        outSlope: -0.00019618442
+        tangentMode: 10
+      - time: 0.6666667
+        value: 180.00012
+        inSlope: 0.00027465823
+        outSlope: 0.00027465823
+        tangentMode: 10
+      - time: 1
+        value: 180.0003
+        inSlope: 0.00054931646
+        outSlope: 0.00054931646
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 179.99963
+        inSlope: 0.00052315847
+        outSlope: 0.00052315847
+        tangentMode: 10
+      - time: 0.46666667
+        value: 179.99988
+        inSlope: 0.00049046107
+        outSlope: 0.00049046107
+        tangentMode: 10
+      - time: 0.6666667
+        value: 179.99997
+        inSlope: -0.00027465826
+        outSlope: -0.00027465826
+        tangentMode: 10
+      - time: 1
+        value: 179.99963
+        inSlope: -0.0010070802
+        outSlope: -0.0010070802
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Chest/Shoulder.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 281.8799
+        inSlope: 172.15999
+        outSlope: 172.15999
+        tangentMode: 10
+      - time: 0.26666668
+        value: 327.78925
+        inSlope: 38.67452
+        outSlope: 38.67452
+        tangentMode: 10
+      - time: 0.46666667
+        value: 308.82706
+        inSlope: -72.66843
+        outSlope: -72.66843
+        tangentMode: 10
+      - time: 1
+        value: 281.8799
+        inSlope: -50.525898
+        outSlope: -50.525898
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.00033569336
+        inSlope: 674.99835
+        outSlope: 674.99835
+        tangentMode: 10
+      - time: 0.26666668
+        value: 179.99991
+        inSlope: 290.91782
+        outSlope: 290.91782
+        tangentMode: 10
+      - time: 0.46666667
+        value: 161.36737
+        inSlope: -197.86295
+        outSlope: -197.86295
+        tangentMode: 10
+      - time: 1
+        value: 0.00033569336
+        inSlope: -302.5632
+        outSlope: -302.5632
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 359.99976
+        inSlope: -674.99835
+        outSlope: -674.99835
+        tangentMode: 10
+      - time: 0.26666668
+        value: 180.00018
+        inSlope: -286.17792
+        outSlope: -286.17792
+        tangentMode: 10
+      - time: 0.46666667
+        value: 200.52869
+        inSlope: 200.8254
+        outSlope: 200.8254
+        tangentMode: 10
+      - time: 1
+        value: 359.99976
+        inSlope: 299.00827
+        outSlope: 299.00827
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Chest/Shoulder.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 310.6072
+        inSlope: -113.9677
+        outSlope: -113.9677
+        tangentMode: 10
+      - time: 0.26666668
+        value: 280.21582
+        inSlope: -48.511864
+        outSlope: -48.511864
+        tangentMode: 10
+      - time: 0.46666667
+        value: 283.6046
+        inSlope: 33.78692
+        outSlope: 33.78692
+        tangentMode: 10
+      - time: 1
+        value: 310.6072
+        inSlope: 50.629868
+        outSlope: 50.629868
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 175.99625
+        inSlope: -604.3091
+        outSlope: -604.3091
+        tangentMode: 10
+      - time: 0.26666668
+        value: 14.847153
+        inSlope: 46.80951
+        outSlope: 46.80951
+        tangentMode: 10
+      - time: 0.46666667
+        value: 154.43277
+        inSlope: 369.1798
+        outSlope: 369.1798
+        tangentMode: 10
+      - time: 1
+        value: 175.99625
+        inSlope: 40.431522
+        outSlope: 40.431522
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 186.51086
+        inSlope: 608.76135
+        outSlope: 608.76135
+        tangentMode: 10
+      - time: 0.26666668
+        value: 348.84723
+        inSlope: -47.825012
+        outSlope: -47.825012
+        tangentMode: 10
+      - time: 0.46666667
+        value: 207.96497
+        inSlope: -372.3189
+        outSlope: -372.3189
+        tangentMode: 10
+      - time: 1
+        value: 186.51086
+        inSlope: -40.226444
+        outSlope: -40.226444
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Hip.R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 310.60724
+        inSlope: -37.83672
+        outSlope: -37.83672
+        tangentMode: 10
+      - time: 0.46666667
+        value: 292.9501
+        inSlope: -65.15577
+        outSlope: -65.15577
+        tangentMode: 10
+      - time: 0.6666667
+        value: 274.45514
+        inSlope: 7.9907455
+        outSlope: 7.9907455
+        tangentMode: 10
+      - time: 1
+        value: 310.60724
+        inSlope: 108.45631
+        outSlope: 108.45631
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.x
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 184.00394
+        inSlope: 5.762525
+        outSlope: 5.762525
+        tangentMode: 10
+      - time: 0.46666667
+        value: 186.69312
+        inSlope: 342.31238
+        outSlope: 342.31238
+        tangentMode: 10
+      - time: 0.6666667
+        value: 322.46558
+        inSlope: 131.73865
+        outSlope: 131.73865
+        tangentMode: 10
+      - time: 1
+        value: 184.00394
+        inSlope: -415.38495
+        outSlope: -415.38495
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.y
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 173.48914
+        inSlope: -6.6979327
+        outSlope: -6.6979327
+        tangentMode: 10
+      - time: 0.46666667
+        value: 170.36343
+        inSlope: -344.35828
+        outSlope: -344.35828
+        tangentMode: 10
+      - time: 0.6666667
+        value: 33.9597
+        inSlope: -131.71515
+        outSlope: -131.71515
+        tangentMode: 10
+      - time: 1
+        value: 173.48914
+        inSlope: 418.58832
+        outSlope: 418.58832
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesBaked.z
+    path: lyra_armature/Spine/Hip.L
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
